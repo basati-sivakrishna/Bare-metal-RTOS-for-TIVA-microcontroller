@@ -1,0 +1,1257 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                              ./main.o (GPIOPinTypeUART)
+C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                              C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o) (IntRegister)
+C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                              ./main.o (SysCtlPeripheralEnable)
+C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                              ./main.o (SysTickIntEnable)
+C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                              ./main.o (UARTConfigSetExpClk)
+C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                              C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o) (CPUcpsid)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+                              ./bare_rtos_queue.o (malloc)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o) (_malloc_r)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o) (__malloc_lock)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o) (_sbrk_r)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o) (_free_r)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o) (errno)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o) (_sbrk)
+c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+head_node           0x4               ./main.o
+errno               0x4               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+pCurrentTask        0x4               ./main.o
+KernelStack         0x190             ./main.o
+OsReadyList         0xc               ./main.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+SRAM             0x20000000         0x00008000         xw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./bare_rtos_queue.o
+LOAD ./main.o
+LOAD ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x00000000                PROVIDE (_intvecs_base_address = 0x0)
+
+.intvecs        0x00000000      0x26c
+ *(.intvecs)
+ .intvecs       0x00000000      0x26c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x00000000                g_pfnVectors
+                0x20000000                PROVIDE (_vtable_base_address = 0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x0000026c     0x29fc
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x0000026c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x0000026c       0x40 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x000002ac       0x74 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x000002ac                _start
+                0x000002ac                _mainCRTStartup
+ .text          0x00000320        0x0 ./bare_rtos_queue.o
+ .text          0x00000320        0x0 ./main.o
+ .text          0x00000320        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .text          0x00000320        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000320        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text.*)
+ .text.bare_rtos_queue_create
+                0x00000320       0x28 ./bare_rtos_queue.o
+                0x00000320                bare_rtos_queue_create
+ .text.bare_rtos_queue_insert
+                0x00000348       0x3e ./bare_rtos_queue.o
+                0x00000348                bare_rtos_queue_insert
+ .text.bare_rtos_queue_get
+                0x00000386       0x3c ./bare_rtos_queue.o
+                0x00000386                bare_rtos_queue_get
+ .text.bare_rtos_queue_insert_indx
+                0x000003c2       0x38 ./bare_rtos_queue.o
+                0x000003c2                bare_rtos_queue_insert_indx
+ *fill*         0x000003fa        0x2 
+ .text.user_mode
+                0x000003fc       0x34 ./main.o
+                0x000003fc                user_mode
+ .text.launch_os
+                0x00000430       0x30 ./main.o
+                0x00000430                launch_os
+ .text.task_yield
+                0x00000460       0x20 ./main.o
+                0x00000460                task_yield
+ .text.vTask_Delay
+                0x00000480       0x30 ./main.o
+                0x00000480                vTask_Delay
+ .text.delay_ms
+                0x000004b0       0x3e ./main.o
+                0x000004b0                delay_ms
+ *fill*         0x000004ee        0x2 
+ .text.UART0_Transmitter
+                0x000004f0       0x30 ./main.o
+                0x000004f0                UART0_Transmitter
+ .text.printstring
+                0x00000520       0x2a ./main.o
+                0x00000520                printstring
+ *fill*         0x0000054a        0x2 
+ .text.uart_init
+                0x0000054c       0x54 ./main.o
+                0x0000054c                uart_init
+ .text.task_0   0x000005a0       0x18 ./main.o
+                0x000005a0                task_0
+ .text.task_1   0x000005b8       0x50 ./main.o
+                0x000005b8                task_1
+ .text.task_2   0x00000608       0x50 ./main.o
+                0x00000608                task_2
+ .text.task_3   0x00000658       0x50 ./main.o
+                0x00000658                task_3
+ .text.osRoundRobinScheduler
+                0x000006a8       0x60 ./main.o
+                0x000006a8                osRoundRobinScheduler
+ .text.systic_setup
+                0x00000708       0x14 ./main.o
+                0x00000708                systic_setup
+ .text.PendSV_Handler
+                0x0000071c       0x44 ./main.o
+                0x0000071c                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000760       0x14 ./main.o
+                0x00000760                SysTick_Handler
+ .text.main     0x00000774       0xd0 ./main.o
+                0x00000774                main
+ .text.bare_rtos_Addtask
+                0x00000844       0xac ./main.o
+                0x00000844                bare_rtos_Addtask
+ .text.OsInsertQueueHead
+                0x000008f0       0x58 ./main.o
+                0x000008f0                OsInsertQueueHead
+ .text.OsKernelTaskInitDynamic
+                0x00000948       0xe4 ./main.o
+                0x00000948                OsKernelTaskInitDynamic
+ .text.ResetISR
+                0x00000a2c       0x6c ./tm4c123gh6pm_startup_ccs_gcc.o
+                0x00000a2c                ResetISR
+ .text.NmiSR    0x00000a98        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.FaultISR
+                0x00000a9e        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .text.IntDefaultHandler
+                0x00000aa4        0x6 ./tm4c123gh6pm_startup_ccs_gcc.o
+ *fill*         0x00000aaa        0x2 
+ .text._GPIOIntNumberGet
+                0x00000aac       0x44 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .text.GPIODirModeSet
+                0x00000af0       0x26 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000af0                GPIODirModeSet
+ .text.GPIODirModeGet
+                0x00000b16       0x26 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000b16                GPIODirModeGet
+ .text.GPIOIntTypeSet
+                0x00000b3c       0x4e C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000b3c                GPIOIntTypeSet
+ .text.GPIOIntTypeGet
+                0x00000b8a       0x40 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000b8a                GPIOIntTypeGet
+ .text.GPIOPadConfigSet
+                0x00000bca      0x106 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000bca                GPIOPadConfigSet
+ .text.GPIOPadConfigGet
+                0x00000cd0       0xd0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000cd0                GPIOPadConfigGet
+ .text.GPIOIntEnable
+                0x00000da0        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000da0                GPIOIntEnable
+ .text.GPIOIntDisable
+                0x00000dac        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000dac                GPIOIntDisable
+ .text.GPIOIntStatus
+                0x00000dba        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000dba                GPIOIntStatus
+ .text.GPIOIntClear
+                0x00000dc8        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000dc8                GPIOIntClear
+ .text.GPIOIntRegister
+                0x00000dce       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000dce                GPIOIntRegister
+ .text.GPIOIntUnregister
+                0x00000dea       0x16 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000dea                GPIOIntUnregister
+ .text.GPIOPinRead
+                0x00000e00        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e00                GPIOPinRead
+ .text.GPIOPinWrite
+                0x00000e06        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e06                GPIOPinWrite
+ .text.GPIOPinTypeADC
+                0x00000e0c       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e0c                GPIOPinTypeADC
+ .text.GPIOPinTypeCAN
+                0x00000e24       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e24                GPIOPinTypeCAN
+ .text.GPIOPinTypeComparator
+                0x00000e3c        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e3c                GPIOPinTypeComparator
+ .text.GPIOPinTypeEPI
+                0x00000e40        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e40                GPIOPinTypeEPI
+ .text.GPIOPinTypeEthernetLED
+                0x00000e44        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e44                GPIOPinTypeEthernetLED
+ .text.GPIOPinTypeEthernetMII
+                0x00000e48        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e48                GPIOPinTypeEthernetMII
+ .text.GPIOPinTypeGPIOInput
+                0x00000e4c       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e4c                GPIOPinTypeGPIOInput
+ .text.GPIOPinTypeGPIOOutput
+                0x00000e64       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e64                GPIOPinTypeGPIOOutput
+ .text.GPIOPinTypeGPIOOutputOD
+                0x00000e7c       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e7c                GPIOPinTypeGPIOOutputOD
+ .text.GPIOPinTypeI2C
+                0x00000e94       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000e94                GPIOPinTypeI2C
+ .text.GPIOPinTypeI2CSCL
+                0x00000eac       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000eac                GPIOPinTypeI2CSCL
+ .text.GPIOPinTypeLCD
+                0x00000ec4        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ec4                GPIOPinTypeLCD
+ .text.GPIOPinTypeLPC
+                0x00000ec8        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ec8                GPIOPinTypeLPC
+ .text.GPIOPinTypePECIRx
+                0x00000ecc        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ecc                GPIOPinTypePECIRx
+ .text.GPIOPinTypePECITx
+                0x00000ed0        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ed0                GPIOPinTypePECITx
+ .text.GPIOPinTypePWM
+                0x00000ed4        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ed4                GPIOPinTypePWM
+ .text.GPIOPinTypeQEI
+                0x00000ed8       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ed8                GPIOPinTypeQEI
+ .text.GPIOPinTypeSSI
+                0x00000ef0        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ef0                GPIOPinTypeSSI
+ .text.GPIOPinTypeTimer
+                0x00000ef4        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ef4                GPIOPinTypeTimer
+ .text.GPIOPinTypeUART
+                0x00000ef8        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000ef8                GPIOPinTypeUART
+ .text.GPIOPinTypeUSBAnalog
+                0x00000efc        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000efc                GPIOPinTypeUSBAnalog
+ .text.GPIOPinTypeUSBDigital
+                0x00000f00        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f00                GPIOPinTypeUSBDigital
+ .text.GPIOPinTypeWakeHigh
+                0x00000f04       0x1a C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f04                GPIOPinTypeWakeHigh
+ .text.GPIOPinTypeWakeLow
+                0x00000f1e       0x1a C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f1e                GPIOPinTypeWakeLow
+ .text.GPIOPinTypeKBRow
+                0x00000f38        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f38                GPIOPinTypeKBRow
+ .text.GPIOPinTypeKBColumn
+                0x00000f3c        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f3c                GPIOPinTypeKBColumn
+ .text.GPIOPinTypeLEDSeq
+                0x00000f40        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f40                GPIOPinTypeLEDSeq
+ .text.GPIOPinTypeCIR
+                0x00000f44        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f44                GPIOPinTypeCIR
+ .text.GPIOPinWakeStatus
+                0x00000f48        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f48                GPIOPinWakeStatus
+ *fill*         0x00000f4e        0x2 
+ .text.GPIOPinConfigure
+                0x00000f50       0x44 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f50                GPIOPinConfigure
+ .text.GPIODMATriggerEnable
+                0x00000f94        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000f94                GPIODMATriggerEnable
+ .text.GPIODMATriggerDisable
+                0x00000fa0        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000fa0                GPIODMATriggerDisable
+ .text.GPIOADCTriggerEnable
+                0x00000fae        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000fae                GPIOADCTriggerEnable
+ .text.GPIOADCTriggerDisable
+                0x00000fba        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+                0x00000fba                GPIOADCTriggerDisable
+ .text._IntDefaultHandler
+                0x00000fc8        0x2 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x00000fca        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00000fca                IntMasterEnable
+ .text.IntMasterDisable
+                0x00000fd8        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00000fd8                IntMasterDisable
+ *fill*         0x00000fe6        0x2 
+ .text.IntRegister
+                0x00000fe8       0x38 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00000fe8                IntRegister
+ .text.IntUnregister
+                0x00001020       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001020                IntUnregister
+ .text.IntPriorityGroupingSet
+                0x00001034       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001034                IntPriorityGroupingSet
+ .text.IntPriorityGroupingGet
+                0x00001050       0x24 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001050                IntPriorityGroupingGet
+ .text.IntPrioritySet
+                0x00001074       0x28 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001074                IntPrioritySet
+ .text.IntPriorityGet
+                0x0000109c       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x0000109c                IntPriorityGet
+ .text.IntEnable
+                0x000010b8       0x60 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x000010b8                IntEnable
+ .text.IntDisable
+                0x00001118       0x60 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001118                IntDisable
+ .text.IntIsEnabled
+                0x00001178       0x64 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001178                IntIsEnabled
+ .text.IntPendSet
+                0x000011dc       0x50 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x000011dc                IntPendSet
+ .text.IntPendClear
+                0x0000122c       0x40 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x0000122c                IntPendClear
+ .text.IntPriorityMaskSet
+                0x0000126c        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x0000126c                IntPriorityMaskSet
+ .text.IntPriorityMaskGet
+                0x00001270        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001270                IntPriorityMaskGet
+ .text.IntTrigger
+                0x00001274        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+                0x00001274                IntTrigger
+ .text._SysCtlMemTimingGet
+                0x00001280       0x64 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x000012e4       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000012e4                SysCtlSRAMSizeGet
+ .text.SysCtlFlashSizeGet
+                0x000012f4       0x44 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000012f4                SysCtlFlashSizeGet
+ .text.SysCtlFlashSectorSizeGet
+                0x00001338       0x38 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001338                SysCtlFlashSectorSizeGet
+ .text.SysCtlPeripheralPresent
+                0x00001370       0x24 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001370                SysCtlPeripheralPresent
+ .text.SysCtlPeripheralReady
+                0x00001394       0x24 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001394                SysCtlPeripheralReady
+ .text.SysCtlPeripheralPowerOn
+                0x000013b8       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000013b8                SysCtlPeripheralPowerOn
+ .text.SysCtlPeripheralPowerOff
+                0x000013d8       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000013d8                SysCtlPeripheralPowerOff
+ .text.SysCtlPeripheralReset
+                0x000013f8       0x38 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000013f8                SysCtlPeripheralReset
+ .text.SysCtlPeripheralEnable
+                0x00001430       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001430                SysCtlPeripheralEnable
+ .text.SysCtlPeripheralDisable
+                0x00001450       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001450                SysCtlPeripheralDisable
+ .text.SysCtlPeripheralSleepEnable
+                0x00001470       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001470                SysCtlPeripheralSleepEnable
+ .text.SysCtlPeripheralSleepDisable
+                0x00001490       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001490                SysCtlPeripheralSleepDisable
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x000014b0       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000014b0                SysCtlPeripheralDeepSleepEnable
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x000014d0       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000014d0                SysCtlPeripheralDeepSleepDisable
+ .text.SysCtlPeripheralClockGating
+                0x000014f0       0x48 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000014f0                SysCtlPeripheralClockGating
+ .text.SysCtlIntRegister
+                0x00001538       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001538                SysCtlIntRegister
+ .text.SysCtlIntUnregister
+                0x0000154c       0x12 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x0000154c                SysCtlIntUnregister
+ *fill*         0x0000155e        0x2 
+ .text.SysCtlIntEnable
+                0x00001560       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001560                SysCtlIntEnable
+ .text.SysCtlIntDisable
+                0x00001570       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001570                SysCtlIntDisable
+ .text.SysCtlIntClear
+                0x00001580        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001580                SysCtlIntClear
+ .text.SysCtlIntStatus
+                0x0000158c       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x0000158c                SysCtlIntStatus
+ .text.SysCtlLDOSleepSet
+                0x000015a0        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015a0                SysCtlLDOSleepSet
+ .text.SysCtlLDOSleepGet
+                0x000015ac        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015ac                SysCtlLDOSleepGet
+ .text.SysCtlLDODeepSleepSet
+                0x000015b8        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015b8                SysCtlLDODeepSleepSet
+ .text.SysCtlLDODeepSleepGet
+                0x000015c4        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015c4                SysCtlLDODeepSleepGet
+ .text.SysCtlSleepPowerSet
+                0x000015d0        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015d0                SysCtlSleepPowerSet
+ .text.SysCtlDeepSleepPowerSet
+                0x000015dc        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015dc                SysCtlDeepSleepPowerSet
+ .text.SysCtlReset
+                0x000015e8       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015e8                SysCtlReset
+ .text.SysCtlSleep
+                0x000015f8        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015f8                SysCtlSleep
+ .text.SysCtlDeepSleep
+                0x000015fc       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000015fc                SysCtlDeepSleep
+ .text.SysCtlResetCauseGet
+                0x0000161c        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x0000161c                SysCtlResetCauseGet
+ .text.SysCtlResetCauseClear
+                0x00001628       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001628                SysCtlResetCauseClear
+ .text.SysCtlDelay
+                0x00001638        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001638                SysCtlDelay
+ .text.SysCtlMOSCConfigSet
+                0x00001640        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001640                SysCtlMOSCConfigSet
+ .text.SysCtlPIOSCCalibrate
+                0x0000164c       0x48 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x0000164c                SysCtlPIOSCCalibrate
+ .text.SysCtlResetBehaviorSet
+                0x00001694        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001694                SysCtlResetBehaviorSet
+ .text.SysCtlResetBehaviorGet
+                0x000016a0        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000016a0                SysCtlResetBehaviorGet
+ .text.SysCtlClockFreqSet
+                0x000016ac      0x234 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000016ac                SysCtlClockFreqSet
+ .text.SysCtlClockSet
+                0x000018e0      0x114 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000018e0                SysCtlClockSet
+ .text.SysCtlClockGet
+                0x000019f4      0x160 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x000019f4                SysCtlClockGet
+ .text.SysCtlDeepSleepClockSet
+                0x00001b54        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001b54                SysCtlDeepSleepClockSet
+ .text.SysCtlDeepSleepClockConfigSet
+                0x00001b60       0x60 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001b60                SysCtlDeepSleepClockConfigSet
+ .text.SysCtlPWMClockSet
+                0x00001bc0       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001bc0                SysCtlPWMClockSet
+ .text.SysCtlPWMClockGet
+                0x00001bd4       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001bd4                SysCtlPWMClockGet
+ .text.SysCtlGPIOAHBEnable
+                0x00001bec       0x18 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001bec                SysCtlGPIOAHBEnable
+ .text.SysCtlGPIOAHBDisable
+                0x00001c04       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c04                SysCtlGPIOAHBDisable
+ .text.SysCtlUSBPLLEnable
+                0x00001c20       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c20                SysCtlUSBPLLEnable
+ .text.SysCtlUSBPLLDisable
+                0x00001c30       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c30                SysCtlUSBPLLDisable
+ .text.SysCtlVoltageEventConfig
+                0x00001c40        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c40                SysCtlVoltageEventConfig
+ .text.SysCtlVoltageEventStatus
+                0x00001c4c        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c4c                SysCtlVoltageEventStatus
+ .text.SysCtlVoltageEventClear
+                0x00001c58       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c58                SysCtlVoltageEventClear
+ .text.SysCtlNMIStatus
+                0x00001c68        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c68                SysCtlNMIStatus
+ .text.SysCtlNMIClear
+                0x00001c74       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c74                SysCtlNMIClear
+ .text.SysCtlClockOutConfig
+                0x00001c84       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c84                SysCtlClockOutConfig
+ .text.SysCtlAltClkConfig
+                0x00001c94        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+                0x00001c94                SysCtlAltClkConfig
+ .text.SysTickEnable
+                0x00001ca0       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001ca0                SysTickEnable
+ .text.SysTickDisable
+                0x00001cb0       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001cb0                SysTickDisable
+ .text.SysTickIntRegister
+                0x00001cc0       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001cc0                SysTickIntRegister
+ .text.SysTickIntUnregister
+                0x00001cdc       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001cdc                SysTickIntUnregister
+ .text.SysTickIntEnable
+                0x00001cf0       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001cf0                SysTickIntEnable
+ .text.SysTickIntDisable
+                0x00001d00       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001d00                SysTickIntDisable
+ .text.SysTickPeriodSet
+                0x00001d10        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001d10                SysTickPeriodSet
+ .text.SysTickPeriodGet
+                0x00001d1c        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001d1c                SysTickPeriodGet
+ .text.SysTickValueGet
+                0x00001d28        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+                0x00001d28                SysTickValueGet
+ .text._UARTIntNumberGet
+                0x00001d34       0x44 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x00001d78        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001d78                UARTParityModeSet
+ .text.UARTParityModeGet
+                0x00001d84        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001d84                UARTParityModeGet
+ .text.UARTFIFOLevelSet
+                0x00001d8c        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001d8c                UARTFIFOLevelSet
+ .text.UARTFIFOLevelGet
+                0x00001d92       0x10 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001d92                UARTFIFOLevelGet
+ .text.UARTConfigGetExpClk
+                0x00001da2       0x26 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001da2                UARTConfigGetExpClk
+ .text.UARTEnable
+                0x00001dc8       0x16 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001dc8                UARTEnable
+ .text.UARTDisable
+                0x00001dde       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001dde                UARTDisable
+ .text.UARTConfigSetExpClk
+                0x00001dfa       0x46 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001dfa                UARTConfigSetExpClk
+ .text.UARTFIFOEnable
+                0x00001e40        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e40                UARTFIFOEnable
+ .text.UARTFIFODisable
+                0x00001e4a        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e4a                UARTFIFODisable
+ .text.UARTEnableSIR
+                0x00001e54       0x12 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e54                UARTEnableSIR
+ .text.UARTDisableSIR
+                0x00001e66        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e66                UARTDisableSIR
+ .text.UARTSmartCardEnable
+                0x00001e70       0x16 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e70                UARTSmartCardEnable
+ .text.UARTSmartCardDisable
+                0x00001e86        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e86                UARTSmartCardDisable
+ .text.UARTModemControlSet
+                0x00001e90        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e90                UARTModemControlSet
+ .text.UARTModemControlClear
+                0x00001e9c        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001e9c                UARTModemControlClear
+ .text.UARTModemControlGet
+                0x00001eaa        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001eaa                UARTModemControlGet
+ .text.UARTModemStatusGet
+                0x00001eb2        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001eb2                UARTModemStatusGet
+ .text.UARTFlowControlSet
+                0x00001ebe        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001ebe                UARTFlowControlSet
+ .text.UARTFlowControlGet
+                0x00001eca        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001eca                UARTFlowControlGet
+ .text.UARTTxIntModeSet
+                0x00001ed2        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001ed2                UARTTxIntModeSet
+ .text.UARTTxIntModeGet
+                0x00001ede        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001ede                UARTTxIntModeGet
+ .text.UARTCharsAvail
+                0x00001ee6        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001ee6                UARTCharsAvail
+ .text.UARTSpaceAvail
+                0x00001ef2        0xc C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001ef2                UARTSpaceAvail
+ .text.UARTCharGetNonBlocking
+                0x00001efe        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001efe                UARTCharGetNonBlocking
+ .text.UARTCharGet
+                0x00001f0c        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f0c                UARTCharGet
+ .text.UARTCharPutNonBlocking
+                0x00001f16        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f16                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x00001f24        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f24                UARTCharPut
+ .text.UARTBreakCtl
+                0x00001f2e       0x12 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f2e                UARTBreakCtl
+ .text.UARTBusy
+                0x00001f40        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f40                UARTBusy
+ .text.UARTIntRegister
+                0x00001f48       0x1c C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f48                UARTIntRegister
+ .text.UARTIntUnregister
+                0x00001f64       0x16 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f64                UARTIntUnregister
+ .text.UARTIntEnable
+                0x00001f7a        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f7a                UARTIntEnable
+ .text.UARTIntDisable
+                0x00001f82        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f82                UARTIntDisable
+ .text.UARTIntStatus
+                0x00001f8c        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f8c                UARTIntStatus
+ .text.UARTIntClear
+                0x00001f96        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f96                UARTIntClear
+ .text.UARTDMAEnable
+                0x00001f9a        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001f9a                UARTDMAEnable
+ .text.UARTDMADisable
+                0x00001fa2        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fa2                UARTDMADisable
+ .text.UARTRxErrorGet
+                0x00001fac        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fac                UARTRxErrorGet
+ .text.UARTRxErrorClear
+                0x00001fb4        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fb4                UARTRxErrorClear
+ .text.UARTClockSourceSet
+                0x00001fba        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fba                UARTClockSourceSet
+ .text.UARTClockSourceGet
+                0x00001fc0        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fc0                UARTClockSourceGet
+ .text.UART9BitEnable
+                0x00001fc6        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fc6                UART9BitEnable
+ .text.UART9BitDisable
+                0x00001fd4        0xe C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fd4                UART9BitDisable
+ .text.UART9BitAddrSet
+                0x00001fe2        0xa C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fe2                UART9BitAddrSet
+ .text.UART9BitAddrSend
+                0x00001fec       0x2c C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+                0x00001fec                UART9BitAddrSend
+ .text.CPUcpsid
+                0x00002018        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x00002018                CPUcpsid
+ .text.CPUprimask
+                0x00002020        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x00002020                CPUprimask
+ .text.CPUcpsie
+                0x00002026        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x00002026                CPUcpsie
+ .text.CPUwfi   0x0000202e        0x4 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x0000202e                CPUwfi
+ .text.CPUbasepriSet
+                0x00002032        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x00002032                CPUbasepriSet
+ .text.CPUbasepriGet
+                0x00002038        0x6 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+                0x00002038                CPUbasepriGet
+ *fill*         0x0000203e        0x2 
+ .text.exit     0x00002040       0x20 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                0x00002040                exit
+ .text.__libc_init_array
+                0x00002060       0x48 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                0x00002060                __libc_init_array
+ .text.malloc   0x000020a8       0x10 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+                0x000020a8                malloc
+ .text.free     0x000020b8       0x10 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+                0x000020b8                free
+ .text._malloc_r
+                0x000020c8      0x574 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x000020c8                _malloc_r
+ .text.memset   0x0000263c       0xa0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                0x0000263c                memset
+ .text.__malloc_lock
+                0x000026dc        0xc c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+                0x000026dc                __malloc_lock
+ .text.__malloc_unlock
+                0x000026e8        0xc c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+                0x000026e8                __malloc_unlock
+ .text._sbrk_r  0x000026f4       0x24 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+                0x000026f4                _sbrk_r
+ .text.startup.register_fini
+                0x00002718       0x14 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000272c       0xc4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x0000272c                __call_exitprocs
+ .text.atexit   0x000027f0        0xc c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                0x000027f0                atexit
+ .text.__libc_fini_array
+                0x000027fc       0x2c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                0x000027fc                __libc_fini_array
+ .text._malloc_trim_r
+                0x00002828       0xa0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+                0x00002828                _malloc_trim_r
+ .text._free_r  0x000028c8      0x208 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+                0x000028c8                _free_r
+ .text.__retarget_lock_init
+                0x00002ad0        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ad0                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x00002ad4        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ad4                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x00002ad8        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ad8                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x00002adc        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002adc                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x00002ae0        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ae0                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x00002ae4        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ae4                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x00002ae8        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002ae8                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x00002aec        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002aec                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x00002af0        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002af0                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x00002af4        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x00002af4                __retarget_lock_release_recursive
+ .text.cleanup_glue
+                0x00002af8       0x1c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+                0x00002af8                cleanup_glue
+ .text._reclaim_reent
+                0x00002b14       0x84 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+                0x00002b14                _reclaim_reent
+ .text.__register_exitproc
+                0x00002b98       0x8c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                0x00002b98                __register_exitproc
+ .text._sbrk    0x00002c24       0x1c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+                0x00002c24                _sbrk
+ .text._exit    0x00002c40        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                0x00002c40                _exit
+                0x00002c44                . = ALIGN (0x4)
+ *(.ctors)
+                0x00002c44                . = ALIGN (0x4)
+ *(.dtors)
+                0x00002c44                . = ALIGN (0x4)
+                0x00002c44                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00002c44        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .init_array.00000
+                0x00002c48        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x00002c4c                __init_array_end = .
+ *(.init)
+ .init          0x00002c4c        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00002c4c                _init
+ .init          0x00002c50        0x8 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini*)
+ .fini          0x00002c58        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00002c58                _fini
+ .fini_array    0x00002c5c        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini          0x00002c60        0x8 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                [!provide]                PROVIDE (__etext = .)
+                [!provide]                PROVIDE (_etext = .)
+                [!provide]                PROVIDE (etext = .)
+
+.glue_7         0x00002c68        0x0
+ .glue_7        0x00002c68        0x0 linker stubs
+
+.glue_7t        0x00002c68        0x0
+ .glue_7t       0x00002c68        0x0 linker stubs
+
+.vfp11_veneer   0x00002c68        0x0
+ .vfp11_veneer  0x00002c68        0x0 linker stubs
+
+.v4_bx          0x00002c68        0x0
+ .v4_bx         0x00002c68        0x0 linker stubs
+
+.iplt           0x00002c68        0x0
+ .iplt          0x00002c68        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x00002c68      0x5ac
+ *(.rodata)
+ .rodata        0x00002c68       0x45 ./main.o
+ *(.rodata*)
+ *fill*         0x00002cad        0x3 
+ .rodata.g_ppui32GPIOIntMapBlizzard
+                0x00002cb0       0xc0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .rodata.g_ppui32GPIOIntMapSnowflake
+                0x00002d70       0xc0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .rodata.g_pui32GPIOBaseAddrs
+                0x00002e30       0x90 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .rodata.g_pui32Dii16Regs
+                0x00002ec0       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pui32EnRegs
+                0x00002ed4       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pui32PendRegs
+                0x00002ee8       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pui32Priority
+                0x00002efc       0x20 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pui32Regs
+                0x00002f1c       0x9c C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pui32UnpendRegs
+                0x00002fb8       0x14 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .rodata.g_pppui32XTALtoVCO
+                0x00002fcc      0x120 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .rodata.g_pui32VCOFrequencies
+                0x000030ec        0x8 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .rodata.g_pui32Xtals
+                0x000030f4       0x6c C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .rodata.g_sXTALtoMEMTIM
+                0x00003160       0x30 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .rodata.g_ppui32UARTIntMap
+                0x00003190       0x40 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .rodata.g_ppui32UARTIntMapSnowflake
+                0x000031d0       0x40 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .rodata._global_impure_ptr
+                0x00003210        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x00003210                _global_impure_ptr
+
+.eh_frame       0x00003214        0x4
+ .eh_frame      0x00003214        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x00003214        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.data           0x20000000      0x84c load address 0x00003218
+                0x00003218                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x20000000        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x20000004        0x0 ./bare_rtos_queue.o
+ .data          0x20000004        0x0 ./main.o
+ .data          0x20000004        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .data          0x20000004        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x20000004        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data*)
+ .data.kernelStackPtr
+                0x20000004        0x4 ./main.o
+                0x20000004                kernelStackPtr
+ .data._impure_ptr
+                0x20000008        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x20000008                _impure_ptr
+ *fill*         0x2000000c        0x4 
+ .data.impure_data
+                0x20000010      0x428 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x20000438      0x408 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000438                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x20000840        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000840                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20000844        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x20000844                __malloc_trim_threshold
+ .data.__atexit_recursive_mutex
+                0x20000848        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000848                __atexit_recursive_mutex
+                0x2000084c                . = ALIGN (0x4)
+                0x2000084c                __data_end__ = .
+
+.igot.plt       0x2000084c        0x0 load address 0x00003a64
+ .igot.plt      0x2000084c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+vtable          0x20000c00      0x26c load address 0x00003a64
+ vtable         0x20000c00      0x26c C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+
+.ARM.exidx      0x00003cd0        0x8
+                0x00003cd0                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00003cd0        0x8 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x00003cd8                __exidx_end = .
+
+.ARM.extab      0x00003cd8        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00003cd8        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.rel.dyn        0x00003cd8        0x0
+ .rel.iplt      0x00003cd8        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x20000e70      0x43c
+                0x20000e70                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x20000e70        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x20000e70       0x1c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x20000e8c        0x0 ./bare_rtos_queue.o
+ .bss           0x20000e8c        0x0 ./main.o
+ .bss           0x20000e8c        0x0 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .bss           0x20000e8c        0x0 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x20000e8c        0x0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss.*)
+ *fill*         0x20000e8c        0x4 
+ .bss.task_1_var
+                0x20000e90        0x8 ./main.o
+                0x20000e90                task_1_var
+ .bss.task_2_var
+                0x20000e98        0x8 ./main.o
+                0x20000e98                task_2_var
+ .bss.task_3_var
+                0x20000ea0        0x8 ./main.o
+                0x20000ea0                task_3_var
+ .bss.pui32Stack
+                0x20000ea8      0x200 ./tm4c123gh6pm_startup_ccs_gcc.o
+ .bss.__malloc_current_mallinfo
+                0x200010a8       0x28 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200010a8                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x200010d0        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200010d0                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x200010d4        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200010d4                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x200010d8        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+                0x200010d8                __malloc_top_pad
+ .bss.heap_end.4144
+                0x200010dc        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x200010e0      0x1a4 ./main.o
+                0x200010e0                head_node
+                0x200010e4                pCurrentTask
+                0x200010e8                KernelStack
+                0x20001278                OsReadyList
+ COMMON         0x20001284       0x21 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x20001284                __lock___atexit_recursive_mutex
+                0x20001288                __lock___arc4random_mutex
+                0x2000128c                __lock___env_recursive_mutex
+                0x20001290                __lock___sinit_recursive_mutex
+                0x20001294                __lock___malloc_recursive_mutex
+                0x20001298                __lock___at_quick_exit_mutex
+                0x2000129c                __lock___dd_hash_mutex
+                0x200012a0                __lock___tz_mutex
+                0x200012a4                __lock___sfp_recursive_mutex
+ *fill*         0x200012a5        0x3 
+ COMMON         0x200012a8        0x4 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+                0x200012a8                errno
+                0x200012ac                . = ALIGN (0x4)
+                0x200012ac                __bss_end__ = .
+
+.heap           0x200012ac        0x0
+                0x200012ac                __heap_start__ = .
+                0x200012ac                end = __heap_start__
+                0x200012ac                _end = end
+                0x200012ac                __end = end
+ *(.heap)
+                0x200012ac                __heap_end__ = .
+                0x200012ac                __HeapLimit = __heap_end__
+
+.stack          0x200012b0        0x0
+                0x200012b0                _stack = .
+                0x200012b0                __stack = .
+ *(.stack)
+START GROUP
+LOAD C:/Users/basat/Downloads/uart/uart/libdriver.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(bare_rtos_v4_csa_copy.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000068       0x2e ./bare_rtos_queue.o
+ .ARM.attributes
+                0x00000096       0x2e ./main.o
+ .ARM.attributes
+                0x000000c4       0x2e ./tm4c123gh6pm_startup_ccs_gcc.o
+ .ARM.attributes
+                0x000000f2       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x00000124       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x00000156       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x00000188       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+ .ARM.attributes
+                0x000001ba       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .ARM.attributes
+                0x000001ec       0x32 C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000021e       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000024c       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000027a       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002a8       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000002d6       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000304       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000332       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000360       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000038e       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000003bc       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000003ea       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000418       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000446       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000474       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000004a2       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000004d0       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000004fe       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000052c       0x2e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000055a       0x1e c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./bare_rtos_queue.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./main.o
+ .comment       0x00000079       0x7a ./tm4c123gh6pm_startup_ccs_gcc.o
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(gpio.o)
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(interrupt.o)
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(sysctl.o)
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(systick.o)
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(uart.o)
+ .comment       0x00000079       0x7a C:/Users/basat/Downloads/uart/uart/libdriver.a(cpu.o)
+
+.debug_info     0x00000000     0x1a82
+ .debug_info    0x00000000      0xa6b ./bare_rtos_queue.o
+ .debug_info    0x00000a6b      0xe7a ./main.o
+ .debug_info    0x000018e5      0x19d ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_abbrev   0x00000000      0x5e3
+ .debug_abbrev  0x00000000      0x224 ./bare_rtos_queue.o
+ .debug_abbrev  0x00000224      0x2e7 ./main.o
+ .debug_abbrev  0x0000050b       0xd8 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_aranges  0x00000000      0x128
+ .debug_aranges
+                0x00000000       0x38 ./bare_rtos_queue.o
+ .debug_aranges
+                0x00000038       0xb8 ./main.o
+ .debug_aranges
+                0x000000f0       0x38 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_ranges   0x00000000       0xf8
+ .debug_ranges  0x00000000       0x28 ./bare_rtos_queue.o
+ .debug_ranges  0x00000028       0xa8 ./main.o
+ .debug_ranges  0x000000d0       0x28 ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_line     0x00000000      0xa02
+ .debug_line    0x00000000      0x273 ./bare_rtos_queue.o
+ .debug_line    0x00000273      0x5f1 ./main.o
+ .debug_line    0x00000864      0x19e ./tm4c123gh6pm_startup_ccs_gcc.o
+
+.debug_str      0x00000000      0x8e0
+ .debug_str     0x00000000      0x5dd ./bare_rtos_queue.o
+                                0x649 (size before relaxing)
+ .debug_str     0x000005dd      0x248 ./main.o
+                                0x822 (size before relaxing)
+ .debug_str     0x00000825       0xbb ./tm4c123gh6pm_startup_ccs_gcc.o
+                                0x25f (size before relaxing)
+
+.debug_frame    0x00000000      0x7dc
+ .debug_frame   0x00000000       0xa8 ./bare_rtos_queue.o
+ .debug_frame   0x000000a8      0x294 ./main.o
+ .debug_frame   0x0000033c       0x7c ./tm4c123gh6pm_startup_ccs_gcc.o
+ .debug_frame   0x000003b8       0x28 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x000003e0       0x2c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x0000040c       0x30 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-malloc.o)
+ .debug_frame   0x0000043c       0x4c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x00000488       0x38 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x000004c0       0x30 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-mlock.o)
+ .debug_frame   0x000004f0       0x2c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000051c       0x5c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000578       0x20 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000598       0x34 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x000005cc       0x8c c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-freer.o)
+ .debug_frame   0x00000658       0xb0 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000708       0x60 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000768       0x34 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000079c       0x20 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .debug_frame   0x000007bc       0x20 c:/ti/ccs1250/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)

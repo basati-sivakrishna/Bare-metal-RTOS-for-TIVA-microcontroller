@@ -1,0 +1,7 @@
+"./bare_rtos_queue.o"
+"./main.o"
+"./tm4c123gh6pm_startup_ccs_gcc.o"
+-Wl,-T"../tm4c123gh6pm.lds"
+-Wl,--start-group
+"C:/Users/basat/Downloads/uart/uart/libdriver.a"
+-Wl,--end-group
